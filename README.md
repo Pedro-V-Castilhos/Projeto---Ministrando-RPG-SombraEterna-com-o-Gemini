@@ -1,1 +1,2 @@
-# projeto_intensivao_ai_alura_google
+<h1>Gemini - O mestre de RPG SombraEterna</h1>
+
