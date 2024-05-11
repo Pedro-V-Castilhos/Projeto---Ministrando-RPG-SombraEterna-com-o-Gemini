@@ -6,3 +6,10 @@
 
 <p>Caso não conheça as regras, sem problemas! O livro com regras estará disponível também nos arquivos do repositório</p>
 
+<ul>
+  <li>Divirta-se com os personagens gerados aleatoriamente</li>
+  <li>desfrute de uma narrativa nova a cada partida</li>
+  <li>Abuse de sua liberdade, as decisões são suas!</li>
+</ul>
+
+<p>Boa sessão! E lembre-se... as vezes o arder da luz é mais perigoso que o seguro da escuridão...</p>
